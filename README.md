@@ -42,7 +42,7 @@ SerialGen is a modern, user-friendly web application for generating secure 20-ch
 
 ## 👀 Website Preview
 <a href="https://ahmed-maher77.github.io/SerialGen___Random-Serial-Number-Generator/" title="demo">
-  <img src="uploaded-img-on-github-readme" alt="website preview" width="400">
+  <img src="https://github.com/user-attachments/assets/f54463eb-126f-41ad-ac54-d248549b3d7f" alt="website preview - UI Mockup" width="400">
 </a>
 
 
